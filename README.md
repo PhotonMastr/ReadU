@@ -44,3 +44,6 @@ chmod +x Install-[insert shell name here].sh
 and now to run it simply type ReadU in your terminal!
 
 Yes, I know it's basic right now but trust me more is coming in the future. Thank you for even downloading it!
+
+
+Yes, ConvertU and ReadU end with U's, future software I make will end with U's as like a trademark of mine
