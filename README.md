@@ -7,7 +7,11 @@ An extremely simple cat clone written in C
 
 <p>Please note that ReadU isn't on Windows yet and probably won't ever be</p>
 
-<p> First, clone this repository to your system </p>
+<p> First, clone this repository to your system using </p>
+
+```sh
+git clone https://github.com/photonmastr/ReadU
+```
 
 <p> Then run </p>
 
