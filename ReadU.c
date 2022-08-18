@@ -1,10 +1,16 @@
 
 // A basic software that reads data from a file and prints it. I will not deny that it is a CAT clone. It's really basic right now but it will be less basic as updates come.
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
+  printf("Input File\n");
 	FILE *fptr;
 
 	char file2open[50], c;
