@@ -16,10 +16,12 @@ cd ReadU
 ```
 
 <p> Now you are in the directory of the files! To install, first note what shell you're on. If you're on bash, run 
+
 ```sh
 ./Install-bash.sh
 ```
 <p> If you're on ZSH, run </p>
+
 ```sh
 ./Install-zsh.sh
 ```
