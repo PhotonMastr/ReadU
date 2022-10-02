@@ -1,9 +1,7 @@
-
-// A basic software that reads data from a file and prints it. I will not deny that it is a CAT clone. It's really basic right now but it will be less basic as updates come.
-
-
-
-
+/* 
+Author: Tristan Faulkner 
+Description: Reads the contents of a file
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
